@@ -1,0 +1,9 @@
+C:\Users\Stachu\source\repos\SocketLib\bin\Debug\netstandard2.0\SocketLib.deps.json
+C:\Users\Stachu\source\repos\SocketLib\bin\Debug\netstandard2.0\SocketLib.dll
+C:\Users\Stachu\source\repos\SocketLib\bin\Debug\netstandard2.0\SocketLib.pdb
+C:\Users\Stachu\source\repos\SocketLib\obj\Debug\netstandard2.0\SocketLib.csprojAssemblyReference.cache
+C:\Users\Stachu\source\repos\SocketLib\obj\Debug\netstandard2.0\SocketLib.AssemblyInfoInputs.cache
+C:\Users\Stachu\source\repos\SocketLib\obj\Debug\netstandard2.0\SocketLib.AssemblyInfo.cs
+C:\Users\Stachu\source\repos\SocketLib\obj\Debug\netstandard2.0\SocketLib.csproj.CoreCompileInputs.cache
+C:\Users\Stachu\source\repos\SocketLib\obj\Debug\netstandard2.0\SocketLib.dll
+C:\Users\Stachu\source\repos\SocketLib\obj\Debug\netstandard2.0\SocketLib.pdb

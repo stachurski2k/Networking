@@ -1,0 +1,9 @@
+C:\Users\Stachu\source\repos\CryptoLib\bin\Debug\netstandard2.0\CryptoLib.deps.json
+C:\Users\Stachu\source\repos\CryptoLib\bin\Debug\netstandard2.0\CryptoLib.dll
+C:\Users\Stachu\source\repos\CryptoLib\bin\Debug\netstandard2.0\CryptoLib.pdb
+C:\Users\Stachu\source\repos\CryptoLib\obj\Debug\netstandard2.0\CryptoLib.csprojAssemblyReference.cache
+C:\Users\Stachu\source\repos\CryptoLib\obj\Debug\netstandard2.0\CryptoLib.AssemblyInfoInputs.cache
+C:\Users\Stachu\source\repos\CryptoLib\obj\Debug\netstandard2.0\CryptoLib.AssemblyInfo.cs
+C:\Users\Stachu\source\repos\CryptoLib\obj\Debug\netstandard2.0\CryptoLib.csproj.CoreCompileInputs.cache
+C:\Users\Stachu\source\repos\CryptoLib\obj\Debug\netstandard2.0\CryptoLib.dll
+C:\Users\Stachu\source\repos\CryptoLib\obj\Debug\netstandard2.0\CryptoLib.pdb

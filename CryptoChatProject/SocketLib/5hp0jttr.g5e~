@@ -1,0 +1,96 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace SocketLib
+{
+    public class NetworkHandler
+    {
+        SocketClient mClient;
+        SocketServer mServer;
+        public Event<Args> DrawDataEvent;
+        public string name { get; private set; }
+        public NetworkHandler()
+        {
+
+        }
+        public void SetName(string _name)
+        {
+            if (string.IsNullOrEmpty(_name))
+            {
+                name = "Anonymus";
+            }
+            if (_name.Length > 10)
+            {
+                name = _name.Substring(0, 9);
+            }
+            else
+            {
+                name = _name;
+            }
+        }
+        public bool isServer
+        {
+            get { return mServer != null; }
+        }
+        public bool isClient
+        {
+            get { return mClient != null; }
+        }
+        public void StartServer(int port=23000)
+        {
+            mServer = new SocketServer();
+            mServer.MsgReceivedEvent += OnServerMsgReceived;
+            mServer.StartServerEvent += OnStartServer;
+            mServer.StartServer();
+            
+        }
+        public void StartClient(string hostName)
+        {
+            mClient = new SocketClient();
+            mClient.ConnectToServer(hostName);
+        }
+        protected void OnServerMsgReceived(object sender,MsgReceivedArgs args)
+        {
+            //printMsg
+            var toExclude=new List<Client>();
+            toExclude.Add(args.sender);
+            mServer.SendToAll(args.msg,toExclude); 
+        }
+        protected void OnClientMsgReceived(object sender, MsgReceivedArgs args)
+        {
+
+        }
+        public virtual void OnStartServer(object sender, StartServerArgs args)
+        {
+            for (int i = 0; i < 25; i++)
+            {
+                DrawDataEvent(this, args);
+            }
+        }
+        public virtual void OnStopServer()
+        {
+
+        }
+        public void Send(string msg)
+        {
+            if (isServer)
+            {
+                mServer.SendToAll(msg);
+            }
+            else if(isClient)
+            {
+                mClient.Send(msg);
+            }
+            DrawDataEvent(this,new MsgReceivedArgs(msg));
+        }
+        public void StopAll()
+        {
+            //To do
+            if (mServer != null)
+            {
+                mServer.StopServer();
+            }
+        }
+    }
+}

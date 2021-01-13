@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "PEWGuGswPjzXvJCoT4ctLIdMeoSpFvRiHkpAmOQmY1D/waMyvOTmJodN6DAc7UKEBhucn4+lW87mMfWMu3pe+A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Stachu\\source\\repos\\SocketLib\\SocketLib.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Stachu\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Stachu\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

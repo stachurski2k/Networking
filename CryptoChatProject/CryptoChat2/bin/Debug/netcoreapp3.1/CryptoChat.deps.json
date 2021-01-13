@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "CryptoChat/1.0.0": {
+        "dependencies": {
+          "CryptoLib": "1.0.0",
+          "SocketLib": "1.0.0"
+        },
+        "runtime": {
+          "CryptoChat.dll": {}
+        }
+      },
+      "CryptoLib/1.0.0": {
+        "runtime": {
+          "CryptoLib.dll": {}
+        }
+      },
+      "SocketLib/1.0.0": {
+        "runtime": {
+          "SocketLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CryptoChat/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CryptoLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SocketLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
