@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Stachu\\source\\repos\\CryptoLib\\CryptoLib.csproj",
+      "projectUniqueName": "E:\\Collabs\\Networking\\Networking\\CryptoChatProject\\CryptoLib\\CryptoLib.csproj",
       "projectName": "CryptoLib",
-      "projectPath": "C:\\Users\\Stachu\\source\\repos\\CryptoLib\\CryptoLib.csproj",
+      "projectPath": "E:\\Collabs\\Networking\\Networking\\CryptoChatProject\\CryptoLib\\CryptoLib.csproj",
       "packagesPath": "C:\\Users\\Stachu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Stachu\\source\\repos\\CryptoLib\\obj\\",
+      "outputPath": "E:\\Collabs\\Networking\\Networking\\CryptoChatProject\\CryptoLib\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Stachu\\AppData\\Roaming\\NuGet\\NuGet.Config",

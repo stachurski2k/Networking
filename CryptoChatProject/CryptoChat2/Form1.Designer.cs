@@ -103,10 +103,10 @@
             // 
             this.CurrentChatIdTextBox.AutoSize = true;
             this.CurrentChatIdTextBox.Dock = System.Windows.Forms.DockStyle.Right;
-            this.CurrentChatIdTextBox.Font = new System.Drawing.Font("Showcard Gothic", 20.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
-            this.CurrentChatIdTextBox.Location = new System.Drawing.Point(441, 0);
+            this.CurrentChatIdTextBox.Font = new System.Drawing.Font("Segoe UI Symbol", 21.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.CurrentChatIdTextBox.Location = new System.Drawing.Point(489, 0);
             this.CurrentChatIdTextBox.Name = "CurrentChatIdTextBox";
-            this.CurrentChatIdTextBox.Size = new System.Drawing.Size(342, 33);
+            this.CurrentChatIdTextBox.Size = new System.Drawing.Size(294, 40);
             this.CurrentChatIdTextBox.TabIndex = 0;
             this.CurrentChatIdTextBox.Text = "Chat id : qwertyuiop";
             this.CurrentChatIdTextBox.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -193,11 +193,11 @@
             // 
             // ChatIdTextBox
             // 
-            this.ChatIdTextBox.Font = new System.Drawing.Font("Showcard Gothic", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.ChatIdTextBox.Font = new System.Drawing.Font("Segoe UI Symbol", 21.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.ChatIdTextBox.Location = new System.Drawing.Point(253, 137);
             this.ChatIdTextBox.Name = "ChatIdTextBox";
             this.ChatIdTextBox.PlaceholderText = "Chat id";
-            this.ChatIdTextBox.Size = new System.Drawing.Size(291, 37);
+            this.ChatIdTextBox.Size = new System.Drawing.Size(291, 46);
             this.ChatIdTextBox.TabIndex = 4;
             // 
             // NameTextBox
@@ -282,9 +282,9 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ControlDark;
             this.ClientSize = new System.Drawing.Size(884, 561);
-            this.Controls.Add(this.ChatPage);
             this.Controls.Add(this.LogPage);
             this.Controls.Add(this.MainPage);
+            this.Controls.Add(this.ChatPage);
             this.Name = "MainForm";
             this.Text = "Crypto Chat";
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.OnExit);

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tujlYCpH5WbbQF0Ndh0PLZiZ10WhAbwA9aPTlNhjPwTtJ9bLN/ij31ixu6xnuJm7GJxcRstUq/1ch7L2ZetIgQ==",
+  "dgSpecHash": "1CNc1H8gQdPjpvz9lp2NnFVufHvokovkHgBo0+pCMTiPOsMtcUFn5ohBWIz394Mm60upT7aRdikKmuXCf1E8mg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Stachu\\source\\repos\\CryptoLib\\CryptoLib.csproj",
+  "projectFilePath": "E:\\Collabs\\Networking\\Networking\\CryptoChatProject\\CryptoLib\\CryptoLib.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Stachu\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Stachu\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

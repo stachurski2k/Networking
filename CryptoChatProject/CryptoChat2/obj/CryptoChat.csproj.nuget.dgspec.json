@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Stachu\\source\\repos\\CryptoChat\\CryptoChat.csproj": {}
+    "E:\\Collabs\\Networking\\Networking\\CryptoChatProject\\CryptoChat2\\CryptoChat.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Stachu\\source\\repos\\CryptoChat\\CryptoChat.csproj": {
+    "E:\\Collabs\\Networking\\Networking\\CryptoChatProject\\CryptoChat2\\CryptoChat.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Stachu\\source\\repos\\CryptoChat\\CryptoChat.csproj",
+        "projectUniqueName": "E:\\Collabs\\Networking\\Networking\\CryptoChatProject\\CryptoChat2\\CryptoChat.csproj",
         "projectName": "CryptoChat",
-        "projectPath": "C:\\Users\\Stachu\\source\\repos\\CryptoChat\\CryptoChat.csproj",
+        "projectPath": "E:\\Collabs\\Networking\\Networking\\CryptoChatProject\\CryptoChat2\\CryptoChat.csproj",
         "packagesPath": "C:\\Users\\Stachu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Stachu\\source\\repos\\CryptoChat\\obj\\",
+        "outputPath": "E:\\Collabs\\Networking\\Networking\\CryptoChatProject\\CryptoChat2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Stachu\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -27,11 +27,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "C:\\Users\\Stachu\\source\\repos\\CryptoLib\\CryptoLib.csproj": {
-                "projectPath": "C:\\Users\\Stachu\\source\\repos\\CryptoLib\\CryptoLib.csproj"
+              "E:\\Collabs\\Networking\\Networking\\CryptoChatProject\\CryptoLib\\CryptoLib.csproj": {
+                "projectPath": "E:\\Collabs\\Networking\\Networking\\CryptoChatProject\\CryptoLib\\CryptoLib.csproj"
               },
-              "C:\\Users\\Stachu\\source\\repos\\SocketLib\\SocketLib.csproj": {
-                "projectPath": "C:\\Users\\Stachu\\source\\repos\\SocketLib\\SocketLib.csproj"
+              "E:\\Collabs\\Networking\\Networking\\CryptoChatProject\\SocketLib\\SocketLib.csproj": {
+                "projectPath": "E:\\Collabs\\Networking\\Networking\\CryptoChatProject\\SocketLib\\SocketLib.csproj"
               }
             }
           }
@@ -66,14 +66,14 @@
         }
       }
     },
-    "C:\\Users\\Stachu\\source\\repos\\CryptoLib\\CryptoLib.csproj": {
+    "E:\\Collabs\\Networking\\Networking\\CryptoChatProject\\CryptoLib\\CryptoLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Stachu\\source\\repos\\CryptoLib\\CryptoLib.csproj",
+        "projectUniqueName": "E:\\Collabs\\Networking\\Networking\\CryptoChatProject\\CryptoLib\\CryptoLib.csproj",
         "projectName": "CryptoLib",
-        "projectPath": "C:\\Users\\Stachu\\source\\repos\\CryptoLib\\CryptoLib.csproj",
+        "projectPath": "E:\\Collabs\\Networking\\Networking\\CryptoChatProject\\CryptoLib\\CryptoLib.csproj",
         "packagesPath": "C:\\Users\\Stachu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Stachu\\source\\repos\\CryptoLib\\obj\\",
+        "outputPath": "E:\\Collabs\\Networking\\Networking\\CryptoChatProject\\CryptoLib\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Stachu\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -121,14 +121,14 @@
         }
       }
     },
-    "C:\\Users\\Stachu\\source\\repos\\SocketLib\\SocketLib.csproj": {
+    "E:\\Collabs\\Networking\\Networking\\CryptoChatProject\\SocketLib\\SocketLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Stachu\\source\\repos\\SocketLib\\SocketLib.csproj",
+        "projectUniqueName": "E:\\Collabs\\Networking\\Networking\\CryptoChatProject\\SocketLib\\SocketLib.csproj",
         "projectName": "SocketLib",
-        "projectPath": "C:\\Users\\Stachu\\source\\repos\\SocketLib\\SocketLib.csproj",
+        "projectPath": "E:\\Collabs\\Networking\\Networking\\CryptoChatProject\\SocketLib\\SocketLib.csproj",
         "packagesPath": "C:\\Users\\Stachu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Stachu\\source\\repos\\SocketLib\\obj\\",
+        "outputPath": "E:\\Collabs\\Networking\\Networking\\CryptoChatProject\\SocketLib\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Stachu\\AppData\\Roaming\\NuGet\\NuGet.Config",

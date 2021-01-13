@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Stachu\\source\\repos\\SocketLib\\SocketLib.csproj",
+      "projectUniqueName": "E:\\Collabs\\Networking\\Networking\\CryptoChatProject\\SocketLib\\SocketLib.csproj",
       "projectName": "SocketLib",
-      "projectPath": "C:\\Users\\Stachu\\source\\repos\\SocketLib\\SocketLib.csproj",
+      "projectPath": "E:\\Collabs\\Networking\\Networking\\CryptoChatProject\\SocketLib\\SocketLib.csproj",
       "packagesPath": "C:\\Users\\Stachu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Stachu\\source\\repos\\SocketLib\\obj\\",
+      "outputPath": "E:\\Collabs\\Networking\\Networking\\CryptoChatProject\\SocketLib\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Stachu\\AppData\\Roaming\\NuGet\\NuGet.Config",
