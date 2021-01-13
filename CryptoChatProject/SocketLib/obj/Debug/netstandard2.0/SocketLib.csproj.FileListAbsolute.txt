@@ -7,3 +7,12 @@ C:\Users\Stachu\source\repos\SocketLib\obj\Debug\netstandard2.0\SocketLib.Assemb
 C:\Users\Stachu\source\repos\SocketLib\obj\Debug\netstandard2.0\SocketLib.csproj.CoreCompileInputs.cache
 C:\Users\Stachu\source\repos\SocketLib\obj\Debug\netstandard2.0\SocketLib.dll
 C:\Users\Stachu\source\repos\SocketLib\obj\Debug\netstandard2.0\SocketLib.pdb
+E:\Collabs\Networking\Networking\CryptoChatProject\SocketLib\bin\Debug\netstandard2.0\SocketLib.deps.json
+E:\Collabs\Networking\Networking\CryptoChatProject\SocketLib\bin\Debug\netstandard2.0\SocketLib.dll
+E:\Collabs\Networking\Networking\CryptoChatProject\SocketLib\bin\Debug\netstandard2.0\SocketLib.pdb
+E:\Collabs\Networking\Networking\CryptoChatProject\SocketLib\obj\Debug\netstandard2.0\SocketLib.csprojAssemblyReference.cache
+E:\Collabs\Networking\Networking\CryptoChatProject\SocketLib\obj\Debug\netstandard2.0\SocketLib.AssemblyInfoInputs.cache
+E:\Collabs\Networking\Networking\CryptoChatProject\SocketLib\obj\Debug\netstandard2.0\SocketLib.AssemblyInfo.cs
+E:\Collabs\Networking\Networking\CryptoChatProject\SocketLib\obj\Debug\netstandard2.0\SocketLib.csproj.CoreCompileInputs.cache
+E:\Collabs\Networking\Networking\CryptoChatProject\SocketLib\obj\Debug\netstandard2.0\SocketLib.dll
+E:\Collabs\Networking\Networking\CryptoChatProject\SocketLib\obj\Debug\netstandard2.0\SocketLib.pdb
